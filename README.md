@@ -31,16 +31,16 @@ npm run dev
 npm run start
 ```
 
-## :file_folder: Folder structure
+## Folder structure
 
-### public
+### :file_folder: public
 
 This folder contains all the client side files. The outputs of js files are all visible on browser.
 
-### src
+### :file_folder: src
 
 This folder contains server side files. The outputs are visible on terminal / cmd / powerShell.
 
-### templates
+### :file_folder: templates
 
 This folder contains all the html (hbs) files that are dynamically served and/or contains partials.
